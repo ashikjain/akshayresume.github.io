@@ -1,0 +1,127 @@
+img{
+    width: 30%;
+    height: 30%;;
+    border-radius: 50%;
+    padding-left: 45px;
+    float: left;
+}
+h1{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+    padding: 18px;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+}
+table{
+    margin-top: 55px;
+    margin-left: 30px;
+    text-transform: uppercase;
+    -ms-text-autospace: punctuation;
+}
+td{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: chocolate;
+}
+th{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: i;
+    text-align: justify;
+    color: darkmagenta;
+}
+div{
+    width: 50%;
+    background-color: lightblue;
+    margin-left: 38%;
+    margin-top: 5%;
+    padding: 10px;
+    padding-bottom: 95px;
+}
+
+body{
+    background-color: lightgrey;
+}
+
+
+p{
+    color:slateblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+    padding: 18px;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+}
+
+#div1{
+    margin-left: 0%;
+    width: 96%;
+    height: 3%;
+    background-color: lightblue;
+
+}
+
+label{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+    text-transform: uppercase;
+}
+textarea{
+    background-color: aqua;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+input{
+    padding: 10px;
+    margin: 10px;
+    margin-left: 30%;
+    border: none;
+    background-color: lightgreen;
+    width: 30%;
+    color: darkturquoise;
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+    text-transform: capitalize;
+    
+}
+
+#divi{
+    background-color: lightgray;
+}
+
+
+
+#image{
+    width: 5%;
+    border-radius: 0%;
+    float: none;
+    padding: 2px;
+    margin-left: 75%;
+}
+#image1{
+    width: 23%;
+    border-radius: 40%;
+    margin-left: 50px;
+}
+#image2{
+    width: 21%;
+    border-radius: 40%;
+    float: none;
+}
+h3{
+    float: left;
+    margin-left: 160px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+    color: darkgreen;
+    margin-top: 10px;
+    font-weight: bold;
+}

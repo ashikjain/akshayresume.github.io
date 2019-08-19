@@ -1,0 +1,43 @@
+body{
+    background-color: lightgreen;
+}
+h1{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+    padding: 18px;
+    padding-bottom: 5px;
+    text-transform: uppercase;   
+}
+
+img{
+    width: 35%;
+    height: 50%;
+    padding: 15px;
+    margin-bottom: 5%;
+    padding-left: 5%;
+    border-radius: 50%;
+    float: left;
+
+}
+input{
+    padding: 10px;
+    margin: 10px;
+    margin-left: 30%;
+    border: none;
+    background-color:lightskyblue;
+    width: 30%;
+    color: darkturquoise;
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+    text-transform: capitalize;
+    
+    
+}
+video{
+    margin-left: 10%;
+    margin-top: 10%;
+}
